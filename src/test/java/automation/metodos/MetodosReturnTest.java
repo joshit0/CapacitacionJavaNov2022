@@ -29,7 +29,9 @@ public class MetodosReturnTest {
 		System.out.println("La suma es "+ resultado);
 	}
 	
-	
+	public void restar(){
+
+	}
 	
 	
 }
